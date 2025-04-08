@@ -9,6 +9,9 @@ namespace ProjetoXadrez
         {
             Tabuleiro tabuleiro = new Tabuleiro(8, 8);
             Console.ReadLine();
+
+            Tela.ImprimirTabuleiro(tabuleiro);
+            Console.ReadLine();
         }
     }
 
