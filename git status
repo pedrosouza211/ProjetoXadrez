@@ -1,0 +1,59 @@
+[33mcommit b1d6ad2e8aa1a1ef2035b1d5db7cd59037f6b1fa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Mon May 5 17:57:56 2025 -0300
+
+    Testes iniciais com movimentos possiveis das pecas
+
+[33mcommit b5770a7ba205b4f1bd6017bf77b01d685a62de36[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Mon Apr 14 23:40:11 2025 -0300
+
+    Fazendo os primeiros Teste de Movimentacao
+
+[33mcommit d0c7b08683c2dd63f2e9a5ad108a00a06244cc66[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Sat Apr 12 16:16:16 2025 -0300
+
+    Melhorando a implementacao do metodo imprimirTabuleiro
+
+[33mcommit f2d32a314a4247d96afb378487b67f68b5eb8c6b[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Sat Apr 12 15:49:02 2025 -0300
+
+    Criando a classe PosicaoXadrez
+
+[33mcommit 3441516a3c2a10dbdb0cbbc66b9e49556ea38b34[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Sat Apr 12 15:09:23 2025 -0300
+
+    Tratando erros com excecao personalizada
+
+[33mcommit 971eb78ea3431c8d8aa24140021254969176fd12[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Sat Apr 12 14:05:41 2025 -0300
+
+    Comecando a colocar pecas no tabuleiro
+
+[33mcommit a7b3766d43290a0573ec12d03911143222c696ae[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Tue Apr 8 00:16:52 2025 -0300
+
+    Começando a implementar um método que imprime um tabuleiro
+
+[33mcommit f76d1fc0f10b2f2b56e881757da458950a8f61cd[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Mon Apr 7 23:46:39 2025 -0300
+
+    Comecando a implementar o Tabuleiro
+
+[33mcommit e364493c878ec030e6f4ae369719a0b1a6d68074[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Mon Apr 7 23:21:46 2025 -0300
+
+    Classe posição criada
+
+[33mcommit e7e1ee1f503acbfbf0886b1060e6060893b2a1d6[m
+Author: Pedro Henrique <phsferreira06@gmail.com>
+Date:   Mon Apr 7 23:08:18 2025 -0300
+
+    Projeto criado
