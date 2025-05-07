@@ -41,15 +41,19 @@ namespace ProjetoXadrez
                     }
                     
                 }
-               
+                Console.Clear();
+                Tela.imprimirPartida(partida);
             }
             catch (TabuleiroException ex)
             {
                 Console.WriteLine(ex.Message);
+                Console.ReadLine();
             }
 
-
+            Console.WriteLine("Pressione Enter para sair...");
+            Console.ReadLine();
         }
+        
     }
 
 
